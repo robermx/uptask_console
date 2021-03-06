@@ -1,0 +1,21 @@
+{
+  "name": "uptask-console",
+  "version": "1.0.0",
+  "description": "Crear una lista de tareas y su seguimiento",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tareas",
+    "uptask",
+    "seguimiento"
+  ],
+  "author": "Roberto Arenas",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
